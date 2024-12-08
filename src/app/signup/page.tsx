@@ -66,8 +66,7 @@ export default function SignUpPage() {
             </button>
           </div>
         </div>
-      </section>
-    </div>
+      </section></div>
  </>
-  );
+);
 }
